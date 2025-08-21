@@ -2,3 +2,23 @@ body{
     background-color: darkred;
     color: deeppink;
 }
+section{
+    background-color: rgb(0, 204, 255);
+ padding-top: 80px;
+ padding-bottom: 80px;
+ display: flex;
+ justify-content: center;
+}
+.chamada-texto{
+    margin-right: 40px;
+
+}
+img{
+    height: 200px;
+
+}
+.chamada-video{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
